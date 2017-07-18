@@ -38,12 +38,12 @@ header nav a:hover{
     color:white;
 }
 .navul1{
-    width: 50%;
+    width: 45%;
     float: left;
     
 }
 .navul2{
-    width: 30%;
+    width: 35%;
     float: left; 
 }
 .mainlogo{
@@ -62,14 +62,21 @@ header nav a:hover{
     border-radius: 40px;
     color: #fff;
 }
-#special:hover{
+#special:hover,button:hover{
     background-color:#0943b3;
 }
 header nav div ul li a svg{
     margin: 3px;
     vertical-align: middle;
 }
-@media(max-width:768px)
+button{
+    border:0;
+    padding: 10px;
+    font-family:cursive;
+    font-weight: 800;
+    font-size: 1.02em;
+}
+@media(max-width:840px)
 {
     .navul1,.navul2{
         width: 0;
@@ -80,7 +87,7 @@ header nav div ul li a svg{
         text-align: left;
     }
     .mainlogo span{
-        margin-left: 200px;
+        margin-left: 35%;
         font-size: 1.1em;
     }
     
