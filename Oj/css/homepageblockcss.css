@@ -21,7 +21,6 @@
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    line-height: 1.2em;
     line-height:25px;
 }
 .introsection div{
@@ -55,6 +54,23 @@
 }
 .introsection .introdiv div h2:hover{
     color:black;
+}
+@media(max-width:800px)
+{
+    .introsection .introdiv #introinnerdiv2{
+        display: block;
+        width: 100%;
+        border: 0;
+        padding-top: 15px;
+        height: auto;
+    }
+    .introsection .introdiv #introinnerdiv1{
+        display: block;
+        width: 100%;
+    }
+    .introsection .introdiv{
+        min-height: 550px;
+    }
 }
 
 /*-----------*/
