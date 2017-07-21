@@ -44,6 +44,7 @@
 }
 .problemlisttable tr{
     border: 1px solid #dfdddc;
+    background-color: #fafafa;
 }
 .problemlisttable td,.problemlisttable th{
     padding: 8px;
