@@ -1,6 +1,6 @@
 # OJ
 A Competitive programming website.
-
+Project Partner: https://github.com/nishantcoder97
 ## Index Page(Main Page)
 
 ![1](https://user-images.githubusercontent.com/28502097/28982447-8e1a212e-7973-11e7-8d54-6c0e916e6a47.png)
