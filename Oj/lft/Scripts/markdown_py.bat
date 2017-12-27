@@ -1,0 +1,1 @@
+@"c:\users\paritosh_code\downloads\compressed\oj\oj-master\lft\scripts\python.exe" "c:\users\paritosh_code\downloads\compressed\oj\oj-master\lft\Scripts\markdown_py" %*
